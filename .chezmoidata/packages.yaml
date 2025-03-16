@@ -64,6 +64,7 @@ packages:
       - "ttf-noto-nerd"
       - "noto-fonts-emoji"
       - "noto-fonts-extra"
+      - "ttf-firacode"
 
     themes:
       - "catppuccin-gtk-theme-mocha"
@@ -73,13 +74,15 @@ packages:
     apps:
       - "qbittorrent"
       - "64gram-desktop-bin"
-      - "zen-browser"
+      - "zen-browser-bin"
       - "mpv"
       - "viewnior"
       - "thunderbird"
       - "gimp"
       - "syncthing"
       - "obs-studio"
+      - "kdenlive"
+      - "vscodium-bin"
 
   npm:
     nvim:
