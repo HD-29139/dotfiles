@@ -1,15 +1,13 @@
-# These are my dotfiles
+### These are my dotfiles
 
-This repo is meant to store my enviroment, you can use it if you want, but there are many times where i commit things,
-then i regret wathever i commited and just make another commit that revert the changes or even edit and force push,
-i also update this repo almost every day
+These dotfiles are inspired by my friend [outragedline](https://github.com/outragedline), whose motivated me to build my own environment.
 
-If you like my configs, i recommend you to pick what you want and add to your own dotfiles
+Feel free to explore and use any part of my config if it fits your style. Just keep in mind that I’m constantly tweaking and updating things, so expect occasional changes and force pushes.
 
-## How to install?
+#### Installation
 
-On archlinux, simply have yay and chezmoi installed and run the following
+On Arch Linux, make sure you have `yay` and `chezmoi` installed, then run the following command:
 
 ```sh
-chezmoi init --apply https://github.com/outragedline/dotfiles.git
+chezmoi init --apply https://github.com/HD-29139/dotfiles.git
 ```
