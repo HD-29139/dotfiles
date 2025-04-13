@@ -2,4 +2,4 @@ require("mappings")
 require("settings")
 require("plugins")
 
-vim.cmd.colorscheme("catppuccin")
+vim.cmd.colorscheme("odyssey")
