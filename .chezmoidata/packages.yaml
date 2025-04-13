@@ -1,7 +1,7 @@
 packages:
   yay:
-    zsh:
-      - "zsh"
+    nushell:
+      - "nushell"
       - "btop"
       - "yazi"
       - "ueberzugpp"
@@ -9,7 +9,6 @@ packages:
       - "github-cli"
       - "dust"
       - "bat"
-      - "eza"
       - "p7zip"
 
     nvim:
@@ -30,6 +29,7 @@ packages:
       - "python-pynvim"
       - "bear"
       - "rust-analyzer"
+      - "yazi"
 
     hypr:
       - "hyprland"
@@ -73,8 +73,7 @@ packages:
 
     apps:
       - "qbittorrent"
-      - "64gram-desktop-bin"
-      - "zen-browser-bin"
+      - "google-chrome"
       - "mpv"
       - "viewnior"
       - "thunderbird"
@@ -82,7 +81,7 @@ packages:
       - "syncthing"
       - "obs-studio"
       - "kdenlive"
-      - "vscodium-bin"
+      - "visual-studio-code-bin"
 
   npm:
     nvim:
