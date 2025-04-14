@@ -11,3 +11,5 @@ alias yz = yazi
 alias lg = lazygit
 alias mkd = mkdir
 alias cdg = cd "~/.config"
+
+source ~/.oh-my-posh.nu
