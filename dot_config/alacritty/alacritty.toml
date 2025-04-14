@@ -1,6 +1,6 @@
 [general]
 import = [
-	"~/.config/alacritty/themes/themes/Cobalt2.toml"
+	"~/.config/alacritty/themes/themes/wombat.toml"
 ]
 
 [env]
