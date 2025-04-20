@@ -10,6 +10,8 @@ alias nv = nvim
 alias yz = yazi
 alias lg = lazygit
 alias mkd = mkdir
-alias cdg = cd "~/.config"
+alias cdconf = cd "~/.config"
+alias cr = cargo run
+
 
 source ~/.oh-my-posh.nu
