@@ -14,4 +14,3 @@ alias cdconf = cd "~/.config"
 alias cr = cargo run
 
 
-source ~/.oh-my-posh.nu

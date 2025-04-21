@@ -1,6 +1,6 @@
 [general]
 import = [
-	"~/.config/alacritty/themes/themes/wombat.toml"
+	"~/.config/alacritty/themes/themes/dark_pride.toml"
 ]
 
 [env]
